@@ -1,15 +1,14 @@
 104.20.1.4 adf.ly
 104.16.138.15 oload.tv
 74.217.253.90 po.st
+151.101.36.193 imgur.com
+151.101.84.193 i.imgur.com
+104.16.168.50 openload.co
+
+
+
 
 0.0.0.0 zonaimage.net
-
-127.0.0.1 crl.versign.net
-127.0.0.1 ood.opsource.net
-127.0.0.1 updates.connectify.me
-127.0.0.1 downloads2.connectify.me
-127.0.0.1 www.connectify.me
-127.0.0.1 updates.connectify.me
 
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 securepubads.g.doubleclick.net
@@ -17,6 +16,21 @@
 0.0.0.0 gads.pubmatic.com
 0.0.0.0 ads.pubmatic.com
 0.0.0.0 spclient.wg.spotify.com
+
+127.0.0.1  activate.connectify.me
+127.0.0.1  d1.connectify.me
+127.0.0.1  d2.connectify.me
+127.0.0.2  d3.connectify.me
+127.0.0.2  b.connectify.me
+127.0.0.2  bc.connectify.me
+127.0.0.2  data.connectify.me
+127.0.0.2  news.connectify.me
+127.0.0.1 crl.versign.net
+127.0.0.1 ood.opsource.net
+127.0.0.1 updates.connectify.me
+127.0.0.1 downloads2.connectify.me
+127.0.0.1 www.connectify.me
+127.0.0.1 updates.connectify.me
 
 127.0.0.1 activate.adobe.com
 127.0.0.1 lmlicenses.wip4.adobe.com
