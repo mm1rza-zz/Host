@@ -1,13 +1,3 @@
-104.20.1.4 adf.ly
-104.16.138.15 oload.tv
-74.217.253.90 po.st
-151.101.36.193 imgur.com
-151.101.84.193 i.imgur.com
-104.16.168.50 openload.co
-
-
-
-
 0.0.0.0 zonaimage.net
 
 0.0.0.0 pubads.g.doubleclick.net
@@ -41,6 +31,46 @@
 127.0.0.1 pas2.minitool.com
 127.0.0.1 pas2.eofsoft.com
 127.0.0.1 tracking.minitool.com
+
+151.101.38.2 media2.giphy.com
+66.6.32.22 blog.giphy.com
+151.101.38.2 media3.giphy.com
+151.101.38.2 tv.giphy.com
+151.101.38.2 media0.giphy.com
+52.216.64.210 labs.giphy.com
+151.101.193.185 giphy.com www.giphy.com
+151.101.38.2 media1.giphy.com
+151.101.38.2 media.giphy.com
+151.101.38.2 api.giphy.com
+34.201.177.177 developers.giphy.com
+52.202.213.23 developers.giphy.com
+151.101.54.2 developers.giphy.com
+
+104.20.1.4 adf.ly
+
+74.217.253.90 po.st
+
+151.101.36.193 imgur.com
+151.101.84.193 i.imgur.com
+
+151.101.40.193 imgur.com
+151.101.52.193 m.imgur.com
+151.101.52.193 api.imgur.com
+151.101.40.193 www.imgur.com
+151.101.52.193 store.imgur.com
+151.101.52.193 s.imgur.com
+151.101.52.193 p.imgur.com
+151.101.40.193 i.imgur.com
+151.101.52.193 z.imgur.com
+
+104.27.216.28 thepiratebay.org
+
+104.16.138.15 oload.tv
+104.16.166.50 openload.co www.openload.co
+104.16.165.50 t1.openload.co
+104.16.164.50 tt1.openload.co
+104.16.164.50 api.openload.co
+104.16.164.50 support.openload.co
 
 151.101.129.140 reddit.com
 151.101.85.140 id.reddit.com
