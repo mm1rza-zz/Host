@@ -11,10 +11,8 @@
 34.201.177.177 developers.giphy.com
 52.202.213.23 developers.giphy.com
 151.101.54.2 developers.giphy.com
-
 151.101.36.193 imgur.com
 151.101.84.193 i.imgur.com
-
 151.101.40.193 imgur.com
 151.101.52.193 m.imgur.com
 151.101.52.193 api.imgur.com
@@ -24,16 +22,13 @@
 151.101.52.193 p.imgur.com
 151.101.40.193 i.imgur.com
 151.101.52.193 z.imgur.com
-
 104.27.216.28 thepiratebay.org
-
 104.16.138.15 oload.tv
 104.16.166.50 openload.co www.openload.co
 104.16.165.50 t1.openload.co
 104.16.164.50 tt1.openload.co
 104.16.164.50 api.openload.co
 104.16.164.50 support.openload.co
-
 151.101.129.140 reddit.com
 151.101.85.140 id.reddit.com
 151.101.49.140  www.reddit.com
@@ -52,7 +47,6 @@
 151.101.49.140  www.redditmedia.com
 151.101.49.140  about.reddit.com
 54.174.14.76  out.reddit.com
-
 149.154.167.118	t.me
 149.154.167.118	telegram.me
 149.154.167.118 web.telegram.me
@@ -71,7 +65,6 @@
 149.154.175.115 aurora-1.web.telegram.org
 149.154.167.124 vesta.web.telegram.org
 149.154.167.124 vesta-1.web.telegram.org
-
 151.101.50.109  i.vimeocdn.com
 151.101.192.217 developer.vimeo.com
 151.101.192.217 www.vimeo.com
@@ -79,7 +72,6 @@
 151.101.50.109  f.vimeocdn.com
 23.206.216.24 secure-c.vimeocdn.com
 151.101.0.217 player.vimeo.com
-
 66.6.33.31 tumblr.com www.tumblr.com
 66.6.32.31 tumblr.com www.tumblr.com
 66.6.33.159 tumblr.com www.tumblr.com
@@ -103,14 +95,11 @@
 216.115.100.126 api.tumblr.com
 216.115.100.125 static.tumblr.com
 216.115.100.126 vtt.tumblr.com
-
 119.81.2.142	kbagi.com www.kbagi.com kumpulbagi.com www.kumpulbagi.com
 119.81.2.139	i.kbagi.com
-
 119.81.2.141	s1.kbagi.com
 119.81.2.139	s2.kbagi.com
 119.81.2.140	s3.kbagi.com
-
 119.81.2.138	s00.kbagi.com
 119.81.2.138 	s01.kbagi.com
 119.81.2.138 	s02.kbagi.com
@@ -121,7 +110,6 @@
 119.81.2.138 	s07.kbagi.com
 119.81.2.138 	s08.kbagi.com
 119.81.2.138 	s09.kbagi.com
-
 119.81.206.140 	s10.kbagi.com
 119.81.206.134 	s11.kbagi.com
 119.81.201.119 	s12.kbagi.com
@@ -132,7 +120,6 @@
 119.81.206.142 	s17.kbagi.com
 119.81.206.139 	s18.kbagi.com
 119.81.206.141 	s19.kbagi.com
-
 119.81.80.171 	s20.kbagi.com
 119.81.80.172 	s21.kbagi.com
 119.81.80.173 	s22.kbagi.com
@@ -143,7 +130,6 @@
 119.81.201.122 	s27.kbagi.com
 119.81.201.123  s28.kbagi.com
 119.81.201.125  s29.kbagi.com
-
 119.81.201.126  s30.kbagi.com
 119.81.194.212  s31.kbagi.com
 119.81.194.213  s32.kbagi.com
@@ -154,7 +140,6 @@
 119.81.80.164   s37.kbagi.com
 119.81.80.165   s38.kbagi.com
 119.81.80.166   s39.kbagi.com
-
 119.81.80.167   s40.kbagi.com
 119.81.80.168   s41.kbagi.com
 119.81.80.169 	s42.kbagi.com
@@ -165,7 +150,6 @@
 119.81.80.179 	s47.kbagi.com
 119.81.80.180 	s48.kbagi.com
 119.81.80.182 	s49.kbagi.com
-
 119.81.80.181	s50.kbagi.com
 119.81.80.186 	s51.kbagi.com
 119.81.80.184 	s52.kbagi.com
@@ -176,7 +160,6 @@
 119.81.80.189	s57.kbagi.com
 119.81.80.190 	s58.kbagi.com
 119.81.101.163	s59.kbagi.com
-
 119.81.101.165 	s60.kbagi.com
 119.81.101.166 	s61.kbagi.com
 119.81.101.167 	s62.kbagi.com
@@ -187,7 +170,6 @@
 119.81.101.190 	s67.kbagi.com
 119.81.86.2 	s68.kbagi.com
 119.81.86.4 	s69.kbagi.com
-
 119.81.86.12 	s70.kbagi.com
 119.81.86.19 	s71.kbagi.com
 119.81.86.23 	s72.kbagi.com
@@ -198,7 +180,6 @@
 119.81.86.27 	s77.kbagi.com
 119.81.86.29 	s78.kbagi.com
 119.81.86.5 	s79.kbagi.com
-
 119.81.86.14 	s80.kbagi.com
 119.81.86.15 	s81.kbagi.com
 119.81.86.6 	s82.kbagi.com
@@ -209,7 +190,6 @@
 119.81.86.11 	s87.kbagi.com
 119.81.86.17 	s88.kbagi.com
 119.81.86.18 	s89.kbagi.com
-
 119.81.86.21 	s90.kbagi.com
 119.81.86.22 	s91.kbagi.com
 119.81.86.25 	s92.kbagi.com
@@ -220,7 +200,6 @@
 161.202.21.166 	s97.kbagi.com
 119.81.101.187 	s98.kbagi.com
 119.81.101.184 	s99.kbagi.com
-
 119.81.101.180 	s100.kbagi.com
 119.81.86.10 	s101.kbagi.com
 119.81.86.9 	s102.kbagi.com
@@ -232,7 +211,6 @@
 119.81.101.164 	s108.kbagi.com
 119.81.101.178 	s109.kbagi.com
 119.81.101.172 	s110.kbagi.com
-
 119.81.101.176 	s111.kbagi.com
 119.81.101.162 	s112.kbagi.com
 119.81.101.182 	s113.kbagi.com
@@ -240,7 +218,6 @@
 119.81.101.175 	s115.kbagi.com
 119.81.101.181 	s116.kbagi.com
 119.81.101.186 	s117.kbagi.com
-
 161.202.21.185 	s121.kbagi.com
 161.202.21.175 	s122.kbagi.com
 161.202.21.187 	s123.kbagi.com
@@ -251,13 +228,11 @@
 161.202.21.179 	s128.kbagi.com
 161.202.21.174 	s129.kbagi.com
 161.202.21.189 	s130.kbagi.com
-
 161.202.21.167 	s131.kbagi.com
 161.202.21.171 	s132.kbagi.com
 161.202.21.184 	s133.kbagi.com
 161.202.21.181 	s134.kbagi.com
 119.81.2.138   	s135.kbagi.com
-
 209.58.183.2	s200.kbagi.com
 209.58.183.3 	s201.kbagi.com
 209.58.183.4 	s202.kbagi.com
@@ -268,7 +243,6 @@
 209.58.183.9 	s207.kbagi.com
 209.58.183.10 	s208.kbagi.com
 209.58.183.1	s209.kbagi.com
-
 209.58.183.12 	s210.kbagi.com
 209.58.183.13 	s211.kbagi.com
 209.58.183.14 	s212.kbagi.com
@@ -280,7 +254,6 @@
 209.58.183.20 	s218.kbagi.com
 209.58.183.21 	s219.kbagi.com
 209.58.183.22 	s220.kbagi.com
-
 209.58.183.23 	s221.kbagi.com
 209.58.183.24 	s222.kbagi.com
 209.58.183.25 	s223.kbagi.com
@@ -291,7 +264,6 @@
 209.58.183.30 	s228.kbagi.com
 209.58.183.31 	s229.kbagi.com
 209.58.183.32 	s230.kbagi.com
-
 209.58.183.33 	s231.kbagi.com
 209.58.183.34 	s232.kbagi.com
 209.58.183.35 	s233.kbagi.com
@@ -302,7 +274,6 @@
 209.58.183.40 	s238.kbagi.com
 209.58.183.41 	s239.kbagi.com
 209.58.183.42 	s240.kbagi.com
-
 209.58.183.43 	s241.kbagi.com
 209.58.183.44 	s242.kbagi.com
 209.58.183.45 	s243.kbagi.com
@@ -313,7 +284,6 @@
 209.58.183.50 	s248.kbagi.com
 209.58.183.51 	s249.kbagi.com
 209.58.183.52 	s250.kbagi.com
-
 209.58.183.53 	s251.kbagi.com
 209.58.183.54 	s252.kbagi.com
 209.58.183.55 	s253.kbagi.com
@@ -324,7 +294,6 @@
 209.58.183.60 	s258.kbagi.com
 209.58.183.61 	s259.kbagi.com
 209.58.183.62 	s260.kbagi.com
-
 209.58.183.63 	s261.kbagi.com
 209.58.183.64 	s262.kbagi.com
 209.58.183.65 	s263.kbagi.com
@@ -335,7 +304,6 @@
 209.58.183.70 	s268.kbagi.com
 209.58.183.71 	s269.kbagi.com
 209.58.183.72 	s270.kbagi.com
-
 209.58.183.73 	s271.kbagi.com
 209.58.183.74 	s272.kbagi.com
 209.58.183.75 	s273.kbagi.com
@@ -346,7 +314,6 @@
 209.58.183.80 	s278.kbagi.com
 209.58.183.81 	s279.kbagi.com
 209.58.183.82 	s280.kbagi.com
-
 209.58.183.83 	s281.kbagi.com
 209.58.183.84 	s282.kbagi.com
 209.58.183.85 	s283.kbagi.com
@@ -355,8 +322,6 @@
 209.58.183.88 	s286.kbagi.com
 209.58.183.89 	s287.kbagi.com
 209.58.183.90 	s288.kbagi.com
-
-
 104.16.118.221 sys.4chan.org
 104.16.62.249 4cdn.org
 104.16.62.249 a.4cdn.org
@@ -364,7 +329,6 @@
 104.16.60.249 s.4cdn.org
 104.16.62.249 t.4cdn.org
 104.20.134.45 donmai.us www.donmai.us
-66.6.32.22 tumblr.fakku.net
 209.197.3.84 img-hw.xvideos.com
 185.88.181.7 info.xvideos.com
 185.88.181.7 static-l1.xvideos.com
@@ -458,13 +422,9 @@
 [KTP.US.TO]
 198.252.99.17 ktp.us.to www.ktp.us.to
 [TUMBLR.COM]
-66.6.32.31 tumblr.com www.tumblr.com
 216.115.100.123 assets.tumblr.com
 216.115.100.123 platform.tumblr.com
 216.115.100.125 media.tumblr.com
-216.115.100.126 api.tumblr.com
-216.115.100.125 static.tumblr.com
-216.115.100.126 vtt.tumblr.com
 216.115.100.125 78.media.tumblr.com
 [85PORN.com]
 192.99.67.204 85porn.com www.85porn.com
@@ -641,7 +601,6 @@
 [7MM.TV]
 104.18.54.148 7mm.tv www.7mm.tv
 104.16.166.50 openload.co
-104.27.216.28 thepiratebay.org
 104.27.214.30 yts.ag
 79.124.59.206 a.hitomi.la
 79.124.59.206 aa.hitomi.la
@@ -827,10 +786,6 @@
 104.27.205.93 img4.sankakucomplex.com
 104.27.205.93 img3.sankakucomplex.com
 104.27.206.93 is.sankakucomplex.com
-104.16.165.50 t1.openload.co
-104.16.164.50 tt1.openload.co
-104.16.164.50 api.openload.co
-104.16.164.50 support.openload.co
 5.178.68.100 www.gelbooru.com
 104.25.40.116 tanix.net www.tanix.net
 192.0.79.34 heavy.com www.heavy.com
@@ -856,19 +811,6 @@
 195.154.211.133 raw.senmanga.com
 216.218.248.135 rotten.com www.rotten.com
 104.28.29.117 hentaimama.com www.hentaimama.com
-151.101.38.2 media2.giphy.com
-66.6.32.22 blog.giphy.com
-151.101.38.2 media3.giphy.com
-151.101.38.2 tv.giphy.com
-151.101.38.2 media0.giphy.com
-52.216.64.210 labs.giphy.com
-151.101.193.185 giphy.com www.giphy.com
-151.101.38.2 media1.giphy.com
-151.101.38.2 media.giphy.com
-151.101.38.2 api.giphy.com
-34.201.177.177 developers.giphy.com
-52.202.213.23 developers.giphy.com
-151.101.54.2 developers.giphy.com
 104.24.104.142 javfull.tv www.javfull.tv
 104.25.47.115 highporn.net www.highporn.net
 104.27.137.67 dl8x.com www.dl8x.com
