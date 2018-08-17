@@ -1,3 +1,21 @@
+#inject telkom
+127.0.0.1 p01.notifa.info
+127.0.0.1 p02.notifa.info
+127.0.0.1 p03.notifa.info
+127.0.0.1 p05.notifa.info
+127.0.0.1 d01.notifa.info
+127.0.0.1 notifa.info
+127.0.0.1 indihome.co.id
+127.0.0.1 mercusuar.uzone.id
+127.0.0.1 csf.uzone.id
+127.0.0.1 cfs.uzone.id
+127.0.0.1 kendedes.uzone.id
+127.0.0.1 cdn.uzone.id
+127.0.0.1 cdn3.uzone.id
+127.0.0.1 usearch.co.id
+127.0.0.1 *.notifa.info
+
+#iklan spotify
 127.0.0.1 pubads.g.doubleclick.net
 127.0.0.1 securepubads.g.doubleclick.net
 127.0.0.1 www.googletagservices.com
@@ -5,6 +23,7 @@
 127.0.0.1 ads.pubmatic.com
 127.0.0.1 spclient.wg.spotify.com
 
+#connectifity
 127.0.0.1  activate.connectify.me
 127.0.0.1  d1.connectify.me
 127.0.0.1  d2.connectify.me
@@ -20,16 +39,19 @@
 127.0.0.1 www.connectify.me
 127.0.0.1 updates.connectify.me
 
+#adobe
 127.0.0.1 activate.adobe.com
 127.0.0.1 lmlicenses.wip4.adobe.com
 127.0.0.1 lm.licenses.adobe.com
 
+#minitoolspartitionwizard
 127.0.0.1 www.partitionwizard.com
 127.0.0.1 pas2.partitionwizard.com
 127.0.0.1 pas2.minitool.com
 127.0.0.1 pas2.eofsoft.com
 127.0.0.1 tracking.minitool.com
 
+#camtasia
 127.0.0.1 activation.cloud.techsmith.com
 127.0.0.1 oscount.techsmith.com
 127.0.0.1 updater.techsmith.com
