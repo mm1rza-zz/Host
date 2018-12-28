@@ -1,19 +1,19 @@
-#inject telkom
-127.0.0.1 p01.notifa.info
-127.0.0.1 p02.notifa.info
-127.0.0.1 p03.notifa.info
-127.0.0.1 p05.notifa.info
-127.0.0.1 d01.notifa.info
-127.0.0.1 notifa.info
-127.0.0.1 indihome.co.id
-127.0.0.1 mercusuar.uzone.id
-127.0.0.1 csf.uzone.id
-127.0.0.1 cfs.uzone.id
-127.0.0.1 kendedes.uzone.id
-127.0.0.1 cdn.uzone.id
-127.0.0.1 cdn3.uzone.id
-127.0.0.1 usearch.co.id
-127.0.0.1 *.notifa.info
+# TENCENT HOST
+127.0.0.1 xmr.pool.minergate.com
+127.0.0.1 masterconn11.qq.com
+127.0.0.1 conna.gj.qq.com
+127.0.0.1 connpm.gj.qq.com
+127.0.0.1 connb.gj.qq.com
+127.0.0.1 connps.gj.qq.com
+127.0.0.1 pm.myapp.com
+127.0.0.1 dlied6.qq.com
+
+# TENCENT DNS HOST
+127.0.0.1 58.250.137.93
+127.0.0.1 219.133.60.246
+127.0.0.1 203.205.142.202
+127.0.0.1 203.205.158.67
+127.0.0.1 92.122.122.144
 
 #iklan spotify
 127.0.0.1 pubads.g.doubleclick.net
