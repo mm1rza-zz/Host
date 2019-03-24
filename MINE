@@ -15,6 +15,12 @@
 127.0.0.1 203.205.158.67
 127.0.0.1 92.122.122.144
 
+#corel
+127.0.0.1 apps.corel.com
+127.0.0.1 mc.corel.com
+127.0.0.1 origin-mc.corel.com
+127.0.0.1 iws.corel.com
+
 #telkom inject
 127.0.0.1 cfs.uzone.id
 127.0.0.1 uzone.id
@@ -23,14 +29,6 @@
 127.0.0.1 cfs.u-ad.info
 127.0.0.1 cfs2.uadexchange.com
 127.0.0.1 www.uzone.id
-
-#iklan spotify
-127.0.0.1 pubads.g.doubleclick.net
-127.0.0.1 securepubads.g.doubleclick.net
-127.0.0.1 www.googletagservices.com
-127.0.0.1 gads.pubmatic.com
-127.0.0.1 ads.pubmatic.com
-127.0.0.1 spclient.wg.spotify.com
 
 #connectifity
 127.0.0.1 activate.connectify.me
