@@ -1,18 +1,13 @@
-#corel
-127.0.0.1 apps.corel.com
-127.0.0.1 mc.corel.com
-127.0.0.1 origin-mc.corel.com
-127.0.0.1 iws.corel.com
-
 #telkom inject
-127.0.0.1 uzone.id
-127.0.0.1 www.uzone.id
 127.0.0.1 cfs.uzone.id
-127.0.0.1 cfs.u-ad.info
+127.0.0.1 uzone.id
 127.0.0.1 cfs2.uzone.id
-127.0.0.1 cfs2.uadexchange.com
-127.0.0.1 cdn4.uzone.id
 127.0.0.1 u-ad.info
+127.0.0.1 cfs.u-ad.info
+127.0.0.1 cfs2.uadexchange.com
+127.0.0.1 www.uzone.id
+127.0.0.1 p03.notifa.info
+127.0.0.1 notifa.info
 
 #connectifity
 127.0.0.1 activate.connectify.me
@@ -66,3 +61,7 @@
 127.0.0.1 tsccloud.cloudapp.net
 127.0.0.1 assets.cloud.techsmith.com
 127.0.0.1 www.techsmith.com
+0.0.0.0 apps.corel.com
+0.0.0.0 mc.corel.com
+0.0.0.0 origin-mc.corel.com
+0.0.0.0 iws.corel.com
